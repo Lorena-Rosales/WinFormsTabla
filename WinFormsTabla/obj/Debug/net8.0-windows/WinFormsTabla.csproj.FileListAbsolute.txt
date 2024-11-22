@@ -1,0 +1,16 @@
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.exe
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.deps.json
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.runtimeconfig.json
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.dll
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.pdb
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.Form1.resources
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.GenerateResource.cache
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfoInputs.cache
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfo.cs
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.CoreCompileInputs.cache
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.dll
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\refint\WinFormsTabla.dll
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.pdb
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.genruntimeconfig.cache
+D:\UAA\Tercer Semestre\Programación II\Tercer Parcial\C# Interfaz\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\ref\WinFormsTabla.dll
